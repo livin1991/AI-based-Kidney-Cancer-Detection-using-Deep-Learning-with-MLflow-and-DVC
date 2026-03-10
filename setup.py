@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC"
-AUTHOR_USER_NAME = "Livin Varghese"
+AUTHOR_USER_NAME = "livin1991"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "livinchakko91@gmail.com"
 

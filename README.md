@@ -19,12 +19,12 @@
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/livin1991/AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n cnncls python=3.9 -y
 ```
 
 ```bash
