@@ -314,3 +314,63 @@ Traceback (most recent call last):
 mlflow.exceptions.MlflowException: When an mlflow-artifacts URI was supplied, the tracking URI must be a valid http or https URI, but it was currently set to file:///F:/SCIENTIST/DATA%20SCIENTIST%20PROJECTS/AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC/mlruns. Perhaps you forgot to set the tracking URI to the running MLflow server. To set the tracking URI, use either of the following methods:
 1. Set the MLFLOW_TRACKING_URI environment variable to the desired tracking URI. `export MLFLOW_TRACKING_URI=http://localhost:5000`
 2. Set the tracking URI programmatically by calling `mlflow.set_tracking_uri`. `mlflow.set_tracking_uri('http://localhost:5000')`
+[2026-03-19 15:21:32,235: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 15:21:32,241: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 15:21:32,246: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 15:21:32,249: INFO: common: created directory at: artifacts]
+[2026-03-19 15:21:32,250: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 15:21:32,255: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:21:58,079: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:22:12,448: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 15:32:05,979: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 15:32:05,979: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 15:32:06,002: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 15:32:06,002: INFO: common: created directory at: artifacts]
+[2026-03-19 15:32:06,002: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 15:32:06,008: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:32:29,164: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:32:43,673: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 15:39:27,698: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 15:39:27,698: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 15:39:27,709: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 15:39:27,711: INFO: common: created directory at: artifacts]
+[2026-03-19 15:39:27,712: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 15:39:27,712: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:39:51,729: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:40:05,995: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 15:58:39,510: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 15:58:39,510: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 15:58:39,522: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 15:58:39,537: INFO: common: created directory at: artifacts]
+[2026-03-19 15:58:39,623: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 15:58:39,625: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:59:01,036: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 15:59:17,021: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:03:49,717: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:03:49,717: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:03:49,732: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:03:49,753: INFO: common: created directory at: artifacts]
+[2026-03-19 16:03:49,768: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:03:49,775: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:04:11,514: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:04:26,211: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:05:25,542: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:05:25,557: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:05:25,566: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:05:25,583: INFO: common: created directory at: artifacts]
+[2026-03-19 16:05:25,595: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:05:25,596: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:05:45,950: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:06:02,436: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
