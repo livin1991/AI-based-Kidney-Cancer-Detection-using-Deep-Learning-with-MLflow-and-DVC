@@ -374,3 +374,447 @@ x==========x]
 [2026-03-19 16:06:02,436: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2026-03-19 16:10:58,725: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:10:58,725: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:10:58,746: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:10:58,762: INFO: common: created directory at: artifacts]
+[2026-03-19 16:10:58,775: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:10:58,781: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:11:25,799: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:11:41,241: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:13:52,751: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:13:52,756: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:13:52,760: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:13:52,853: INFO: common: created directory at: artifacts]
+[2026-03-19 16:13:52,866: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:13:52,868: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:14:12,358: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:14:28,104: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:18:13,604: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:18:13,604: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:18:13,616: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:18:13,634: INFO: common: created directory at: artifacts]
+[2026-03-19 16:18:13,646: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:18:13,649: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:18:35,801: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:18:51,534: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:26:07,013: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:26:07,018: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:26:07,031: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:26:07,121: INFO: common: created directory at: artifacts]
+[2026-03-19 16:26:07,133: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:26:07,134: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:26:28,783: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:26:44,448: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 16:33:23,502: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 16:33:23,508: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 16:33:23,519: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 16:33:23,537: INFO: common: created directory at: artifacts]
+[2026-03-19 16:33:23,551: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 16:33:23,556: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:33:45,586: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 16:34:01,490: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 18:10:59,508: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 18:10:59,511: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:10:59,511: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:10:59,511: INFO: common: created directory at: artifacts]
+[2026-03-19 18:10:59,511: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 18:10:59,511: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 18:11:23,010: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 18:11:36,822: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 18:11:36,822: INFO: main: *******************]
+[2026-03-19 18:11:36,822: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-03-19 18:11:36,838: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:11:36,843: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:11:36,844: INFO: common: created directory at: artifacts]
+[2026-03-19 18:11:36,851: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-19 18:11:39,010: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-19 18:11:43,901: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-03-19 18:11:43,901: INFO: main: *******************]
+[2026-03-19 18:11:43,901: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-03-19 18:11:43,921: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:11:43,926: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:11:43,928: INFO: common: created directory at: artifacts]
+[2026-03-19 18:11:43,956: INFO: common: created directory at: artifacts\training]
+[2026-03-19 18:18:15,604: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-03-19 18:18:15,606: INFO: main: *******************]
+[2026-03-19 18:18:15,607: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-03-19 18:18:15,620: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:18:15,639: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:18:15,642: INFO: common: created directory at: artifacts]
+[2026-03-19 18:19:16,971: INFO: common: json file saved at: scores.json]
+[2026-03-19 18:19:17,017: INFO: common: json file saved at: scores.json]
+[2026-03-19 18:19:21,691: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+==========================================']
+Traceback (most recent call last):
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\main.py", line 55, in <module>
+    model_evalution.main()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\components\model_evaluation_mlflow.py", line 60, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 594, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 314, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+=========================================='
+[2026-03-19 18:29:24,189: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:29:24,200: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:29:24,206: INFO: common: created directory at: artifacts]
+[2026-03-19 18:32:00,527: INFO: common: json file saved at: scores.json]
+[2026-03-19 18:57:43,583: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 18:57:43,591: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 18:57:46,305: INFO: common: created directory at: artifacts]
+[2026-03-19 19:04:28,198: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 19:04:28,212: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:04:28,219: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:04:28,231: INFO: common: created directory at: artifacts]
+[2026-03-19 19:04:28,245: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 19:04:28,247: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 19:04:53,040: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 19:05:08,902: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 19:05:08,902: INFO: main: *******************]
+[2026-03-19 19:05:08,902: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-03-19 19:05:08,902: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:05:08,924: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:05:08,928: INFO: common: created directory at: artifacts]
+[2026-03-19 19:05:08,943: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-19 19:05:10,302: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-19 19:05:15,153: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-03-19 19:05:15,154: INFO: main: *******************]
+[2026-03-19 19:05:15,155: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-03-19 19:05:15,160: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:05:15,164: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:05:15,166: INFO: common: created directory at: artifacts]
+[2026-03-19 19:05:15,196: INFO: common: created directory at: artifacts\training]
+[2026-03-19 19:08:33,535: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-03-19 19:08:33,536: INFO: main: *******************]
+[2026-03-19 19:08:33,537: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-03-19 19:08:33,546: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:08:33,551: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:08:33,553: INFO: common: created directory at: artifacts]
+[2026-03-19 19:09:37,272: INFO: common: json file saved at: scores.json]
+[2026-03-19 19:09:37,325: INFO: common: json file saved at: scores.json]
+[2026-03-19 19:09:42,200: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+==========================================']
+Traceback (most recent call last):
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\main.py", line 55, in <module>
+    model_evalution.main()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\components\model_evaluation_mlflow.py", line 60, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 594, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 314, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+=========================================='
+[2026-03-19 19:11:31,886: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:11:31,894: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:11:31,899: INFO: common: created directory at: artifacts]
+[2026-03-19 19:12:54,217: INFO: common: json file saved at: scores.json]
+[2026-03-19 19:13:53,818: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:13:53,826: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:13:53,846: INFO: common: created directory at: artifacts]
+[2026-03-19 19:15:19,877: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 19:15:19,882: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:15:19,890: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:15:19,907: INFO: common: created directory at: artifacts]
+[2026-03-19 19:15:19,913: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 19:15:19,925: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 19:15:56,045: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 19:16:11,792: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 19:16:11,792: INFO: main: *******************]
+[2026-03-19 19:16:11,792: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-03-19 19:16:11,792: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:16:11,808: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:16:11,808: INFO: common: created directory at: artifacts]
+[2026-03-19 19:16:11,846: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-19 19:16:13,262: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-19 19:16:18,079: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-03-19 19:16:18,079: INFO: main: *******************]
+[2026-03-19 19:16:18,079: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-03-19 19:16:18,095: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:16:18,106: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:16:18,116: INFO: common: created directory at: artifacts]
+[2026-03-19 19:16:18,129: INFO: common: created directory at: artifacts\training]
+[2026-03-19 19:19:32,846: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-03-19 19:19:32,847: INFO: main: *******************]
+[2026-03-19 19:19:32,848: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-03-19 19:19:32,855: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:19:32,860: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:19:32,862: INFO: common: created directory at: artifacts]
+[2026-03-19 19:20:34,517: INFO: common: json file saved at: scores.json]
+[2026-03-19 19:20:34,562: INFO: common: json file saved at: scores.json]
+[2026-03-19 19:20:38,938: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+==========================================']
+Traceback (most recent call last):
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\main.py", line 55, in <module>
+    model_evalution.main()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\components\model_evaluation_mlflow.py", line 60, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 594, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 314, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+=========================================='
+[2026-03-19 19:27:07,421: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 19:27:07,430: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 19:27:07,434: INFO: common: created directory at: artifacts]
+[2026-03-19 19:28:17,915: INFO: common: json file saved at: scores.json]
+[2026-03-19 20:36:16,987: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 20:36:16,995: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 20:36:16,999: INFO: common: created directory at: artifacts]
+[2026-03-19 20:37:35,483: INFO: common: json file saved at: scores.json]
+[2026-03-19 20:54:05,956: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-19 20:54:05,956: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 20:54:05,956: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 20:54:05,982: INFO: common: created directory at: artifacts]
+[2026-03-19 20:54:05,995: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-19 20:54:05,995: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 20:54:31,602: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-19 20:54:47,285: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-19 20:54:47,285: INFO: main: *******************]
+[2026-03-19 20:54:47,300: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-03-19 20:54:47,300: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 20:54:47,318: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 20:54:47,323: INFO: common: created directory at: artifacts]
+[2026-03-19 20:54:47,337: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-19 20:54:49,159: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-19 20:54:53,890: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-03-19 20:54:53,890: INFO: main: *******************]
+[2026-03-19 20:54:53,890: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-03-19 20:54:53,890: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 20:54:53,907: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 20:54:53,910: INFO: common: created directory at: artifacts]
+[2026-03-19 20:54:53,950: INFO: common: created directory at: artifacts\training]
+[2026-03-19 20:58:11,099: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-03-19 20:58:11,099: INFO: main: *******************]
+[2026-03-19 20:58:11,099: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-03-19 20:58:11,099: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 20:58:11,126: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 20:58:11,128: INFO: common: created directory at: artifacts]
+[2026-03-19 20:59:13,116: INFO: common: json file saved at: scores.json]
+[2026-03-19 20:59:13,172: INFO: common: json file saved at: scores.json]
+[2026-03-19 20:59:22,028: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+==========================================']
+Traceback (most recent call last):
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\main.py", line 55, in <module>
+    model_evalution.main()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\components\model_evaluation_mlflow.py", line 60, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 594, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\Users\user\anaconda3\envs\renal\lib\site-packages\mlflow\utils\rest_utils.py", line 314, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 401 != 200. Response body: '=============== ATTENTION! ===============
+
+To use authentication, you must first: 
+    Get your default access token from: https://dagshub.com/user/settings/tokens
+    OR 
+    Set a password: https://dagshub.com/user/settings/password 
+=========================================='
+[2026-03-19 21:00:36,004: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 21:00:36,013: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 21:00:36,018: INFO: common: created directory at: artifacts]
+[2026-03-19 21:01:47,161: INFO: common: json file saved at: scores.json]
+[2026-03-19 22:36:38,719: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-19 22:36:38,728: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-19 22:36:38,732: INFO: common: created directory at: artifacts]
+[2026-03-19 22:37:55,065: INFO: common: json file saved at: scores.json]
+[2026-03-20 15:48:40,024: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 15:48:40,124: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 15:48:40,142: INFO: common: created directory at: artifacts]
+[2026-03-20 15:48:40,160: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-20 15:48:40,168: INFO: 2995476033: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-20 15:49:48,441: INFO: 2995476033: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-20 16:39:07,978: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 16:39:07,995: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 16:39:08,003: INFO: common: created directory at: artifacts]
+[2026-03-20 16:39:10,744: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-20 16:39:12,816: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-20 16:47:55,212: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-20 16:47:55,227: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 16:47:55,227: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 16:47:55,247: INFO: common: created directory at: artifacts]
+[2026-03-20 16:47:55,255: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-20 16:47:55,255: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-20 16:49:00,145: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1ahSQ0vxaMIlYqzwrb_fkfLvJeOSjqa0L/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2026-03-20 16:49:20,859: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-20 16:49:20,864: INFO: main: *******************]
+[2026-03-20 16:49:20,865: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2026-03-20 16:49:20,872: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 16:49:20,910: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 16:49:20,930: INFO: common: created directory at: artifacts]
+[2026-03-20 16:49:20,960: INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-03-20 16:49:22,659: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-03-20 16:49:27,788: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2026-03-20 16:49:27,789: INFO: main: *******************]
+[2026-03-20 16:49:27,790: INFO: main: >>>>>> stage Training started <<<<<<]
+[2026-03-20 16:49:27,796: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 16:49:27,807: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 16:49:27,809: INFO: common: created directory at: artifacts]
+[2026-03-20 16:49:27,848: INFO: common: created directory at: artifacts\training]
+[2026-03-20 16:52:41,921: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2026-03-20 16:52:41,921: INFO: main: *******************]
+[2026-03-20 16:52:41,921: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2026-03-20 16:52:41,961: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-20 16:52:41,961: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-20 16:52:41,961: INFO: common: created directory at: artifacts]
+[2026-03-20 16:53:43,045: INFO: common: json file saved at: scores.json]
+[2026-03-20 16:53:43,121: INFO: common: json file saved at: scores.json]
+[2026-03-20 16:53:49,970: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2026-03-20 16:53:52,532: INFO: builder_impl: Assets written to: C:\Users\user\AppData\Local\Temp\tmp5cgjqy37\model\data\model\assets]
+[2026-03-20 16:54:25,110: ERROR: main: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'http', 'https'}]
+Traceback (most recent call last):
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\main.py", line 55, in <module>
+    model_evalution.main()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "F:\SCIENTIST\DATA SCIENTIST PROJECTS\AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC\src\cnnClassifier\components\model_evaluation_mlflow.py", line 74, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model")
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\tensorflow\__init__.py", line 215, in log_model
+    return Model.log(
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\models\model.py", line 620, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\tracking\fluent.py", line 1030, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\tracking\client.py", line 1195, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 538, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 506, in _get_artifact_repo
+    artifact_repo = get_artifact_repository(artifact_uri)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 117, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 74, in get_artifact_repository
+    return repository(artifact_uri)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "C:\Users\user\anaconda3\envs\kidneyy\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'http', 'https'}
