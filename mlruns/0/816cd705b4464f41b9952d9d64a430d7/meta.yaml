@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/816cd705b4464f41b9952d9d64a430d7/artifacts
+end_time: 1774012443931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 816cd705b4464f41b9952d9d64a430d7
+run_name: redolent-bee-142
+run_uuid: 816cd705b4464f41b9952d9d64a430d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774012405974
+status: 4
+tags: []
+user_id: user
