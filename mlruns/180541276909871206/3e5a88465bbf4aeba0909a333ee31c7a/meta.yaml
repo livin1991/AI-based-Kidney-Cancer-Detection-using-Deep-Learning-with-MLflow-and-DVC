@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/SCIENTIST/DATA%20SCIENTIST%20PROJECTS/AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC/mlruns/180541276909871206/3e5a88465bbf4aeba0909a333ee31c7a/artifacts
+end_time: 1774171792984
+entry_point_name: ''
+experiment_id: '180541276909871206'
+lifecycle_stage: active
+run_id: 3e5a88465bbf4aeba0909a333ee31c7a
+run_name: sneaky-snake-26
+run_uuid: 3e5a88465bbf4aeba0909a333ee31c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774171751409
+status: 3
+tags: []
+user_id: user

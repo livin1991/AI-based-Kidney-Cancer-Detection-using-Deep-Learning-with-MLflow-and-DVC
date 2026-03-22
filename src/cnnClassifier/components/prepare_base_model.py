@@ -65,6 +65,17 @@ class PrepareBaseModel:
 
     
         
+    # @staticmethod
+    # def save_model(path: Path, model: tf.keras.Model):
+    #     model.save(path)
+
+
     @staticmethod
     def save_model(path: Path, model: tf.keras.Model):
-        model.save(path)
+        path = Path(path)  # ensure Path object
+
+    # ✅ folder create 
+        path.parent.mkdir(parents=True, exist_ok=True)
+
+    # ✅ save model
+        model.save(str(path))

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/074c63dc7b804cba85bca9da91e3fdf2/artifacts
+end_time: 1774074836591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 074c63dc7b804cba85bca9da91e3fdf2
+run_name: thundering-kit-719
+run_uuid: 074c63dc7b804cba85bca9da91e3fdf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774074779090
+status: 4
+tags: []
+user_id: user

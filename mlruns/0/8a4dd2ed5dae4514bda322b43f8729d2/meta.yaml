@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8a4dd2ed5dae4514bda322b43f8729d2/artifacts
+end_time: 1774028840925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a4dd2ed5dae4514bda322b43f8729d2
+run_name: shivering-shrimp-948
+run_uuid: 8a4dd2ed5dae4514bda322b43f8729d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774028793183
+status: 4
+tags: []
+user_id: user

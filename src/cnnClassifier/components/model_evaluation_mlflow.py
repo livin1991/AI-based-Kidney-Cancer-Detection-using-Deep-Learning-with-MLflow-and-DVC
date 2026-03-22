@@ -55,6 +55,8 @@ class Evaluation:
     
     def log_into_mlflow(self):
         mlflow.set_registry_uri(self.config.mlflow_uri)
+       # mlflow.set_tracking_uri(self.config.mlflow_uri)
+        mlflow.set_experiment("kidney-project")
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         
         with mlflow.start_run():
@@ -72,3 +74,4 @@ class Evaluation:
                 mlflow.keras.log_model(self.model, "model", registered_model_name="VGG16Model")
             else:
                 mlflow.keras.log_model(self.model, "model")
+                
