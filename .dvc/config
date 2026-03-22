@@ -1,5 +1,0 @@
-[cache]
-    type = copy
-    dir = cache
-[core]
-    no_scm = false
