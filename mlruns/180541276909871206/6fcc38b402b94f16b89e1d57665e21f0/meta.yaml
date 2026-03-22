@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/SCIENTIST/DATA%20SCIENTIST%20PROJECTS/AI-based-Kidney-Cancer-Detection-using-Deep-Learning-with-MLflow-and-DVC/mlruns/180541276909871206/6fcc38b402b94f16b89e1d57665e21f0/artifacts
+end_time: 1774209874427
+entry_point_name: ''
+experiment_id: '180541276909871206'
+lifecycle_stage: active
+run_id: 6fcc38b402b94f16b89e1d57665e21f0
+run_name: sassy-bug-725
+run_uuid: 6fcc38b402b94f16b89e1d57665e21f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774209827830
+status: 3
+tags: []
+user_id: user
