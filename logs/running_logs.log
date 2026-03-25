@@ -2639,3 +2639,11 @@ OSError: No file or directory found at model\model.h5
 [2026-03-24 23:12:51,862: INFO: _internal: 192.168.1.2 - - [24/Mar/2026 23:12:51] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -]
 [2026-03-24 23:12:51,880: INFO: _internal: 192.168.1.2 - - [24/Mar/2026 23:12:51] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -]
 [2026-03-24 23:12:52,709: INFO: _internal: 192.168.1.2 - - [24/Mar/2026 23:12:52] "[33mPOST /boaform/admin/formPing HTTP/1.1[0m" 404 -]
+[2026-03-25 12:17:06,588: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080]
+[2026-03-25 12:17:06,666: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2026-03-25 12:17:18,171: INFO: _internal: 127.0.0.1 - - [25/Mar/2026 12:17:18] "GET / HTTP/1.1" 200 -]
+[2026-03-25 12:17:19,436: INFO: _internal: 127.0.0.1 - - [25/Mar/2026 12:17:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-03-25 12:17:36,914: INFO: _internal: 127.0.0.1 - - [25/Mar/2026 12:17:36] "POST /predict HTTP/1.1" 200 -]
